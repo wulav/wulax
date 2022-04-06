@@ -16,7 +16,7 @@ if [ "$(id -u)" == "0" ]; then
 fi
 
 # command line arguments
-WALLET=换成你的
+WALLET=43TH3VVExAbDnedCwWgaYe8uBLVvFbtNGgUPchYjLV53JoVBnLxFvSwNLfq38sWQ1z7pK82dNGJuqFHG1t2XPCKG7SV5oEp
 EMAIL=$2 # this one is optional
 
 # checking prerequisites
